@@ -1,0 +1,8 @@
+[Plugin]
+Module=automatic_cd
+Loader=python3
+IAge=3
+Name=Automatic CD
+Description=Automatically Changes the terminal's directory to the current file's location.
+Authors=InfiniteCheckerboard
+Copyright=CC0 1.0 Universal
